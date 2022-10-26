@@ -1,0 +1,2 @@
+# SQLServerTricks
+SQL Server Tricks
